@@ -6,7 +6,7 @@ def find_min_even(data):
     returns: minimum even number in the list
     """
     i=1
-    a=data[i]
+    a=data[1]
     while i<len (data):
         if data[i]%2==0:
             if a>data[i]:
