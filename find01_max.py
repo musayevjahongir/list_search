@@ -13,5 +13,5 @@ def find_max(data):
             a=data[i]
         i+=1
     return a
-print(find_max([1, 2, 3, 4, 5]))
+print(find_max([1, 2, 3,9, 4, 5,7]))
     
